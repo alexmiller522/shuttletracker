@@ -1,0 +1,5 @@
+After creating the get request we now had to look at the given information from the API and figure out how to store it. We decided to put it into a map
+
+I used this link to read up on maps and how to use them for the code
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map

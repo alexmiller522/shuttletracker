@@ -1,0 +1,9 @@
+Get request
+
+Here are some websites I read that I used to find information about making a get request from the API. I had to mount it also.
+
+https://stackoverflow.com/questions/47409043/vuejs-http-get-request
+https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+https://vuejsdevelopers.com/2018/07/02/vue-js-native-script-vue-http-web-service/
+
+ a lot of this was trial and error
