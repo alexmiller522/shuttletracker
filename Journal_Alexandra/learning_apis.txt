@@ -1,0 +1,7 @@
+Learning about APIs. 
+
+I am new to rcos and haven't worked outside my comfort zone for CS until now. I had to do a lot of research regarding APIs to learn how they work and what they are. I used these links below to help me figure out how they work.
+
+https://www.youtube.com/watch?v=btDfVBPYI-U
+https://www.youtube.com/watch?v=zPViRHZfKv4
+
