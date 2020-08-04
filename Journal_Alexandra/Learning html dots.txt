@@ -1,0 +1,7 @@
+I had to figure out how to add colored dots next to the names of the routes. I had to do a lot of research because I am not experienced in doing this. With this I have to go to the API and get the colors and then figure out the CSS and HTML for this
+
+My idea is to make another column before the name and just add the dots there
+
+
+https://stackoverflow.com/questions/6921792/how-to-draw-circle-in-html-page#:~:text=There%20is%20not%20technically%20a,a%20circle%20can%20be%20drawn.&text=border%2Dradius%3A%2050%25%3B%20will,a%20circle%2C%20regardless%20of%20size. 
+I used this website for some inspiration on the dots. 
