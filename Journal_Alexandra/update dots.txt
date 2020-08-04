@@ -1,0 +1,4 @@
+My new Idea is I already know what the colors are.
+To make things simpiler I can compare the route ID and just make a transparent JPG of each color and upload them and make them appear when the certain route is called
+
+I had to figoure out how to make transparent dots and so far I got them all. 
